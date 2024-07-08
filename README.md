@@ -5,8 +5,7 @@ I created a Chrome extension for fun! It shows a random dad joke whenever you op
 Here's a sneak peek:
 
 <p align="center">
-  <img src="https://github.com/hgpt185/dadJokesChromeExtenstion/assets/75779709/d60d357b-3e46-46c0-9973-536943ac0309" alt="Dad Jokes Extension Screenshot 1" width="400"/>
-  <img src="https://github.com/hgpt185/dadJokesChromeExtenstion/assets/75779709/2ee94696-7bad-4212-8581-dabe63ef6051" alt="Dad Jokes Extension Screenshot 2" width="400"/>
+https://github.com/hgpt185/dadJokesChromeExtenstion/assets/75779709/6bfad569-6a1a-4a1d-bf35-aab9671bee1b
 </p>
 
 ## Installation
